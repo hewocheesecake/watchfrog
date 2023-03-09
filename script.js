@@ -14,5 +14,4 @@ setInterval(() => {
 frog.play();
 
 videoContainer.addEventListener('click', () => {
-  // Do nothing since the gif is always playing
 });
